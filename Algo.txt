@@ -17,3 +17,4 @@ Doorbell rings.
 Get up and answer door.
 Delivery guy gives me Pizza.
 Tip delivery guy.
+Go inside and enjoy Pizza.
