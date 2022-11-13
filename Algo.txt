@@ -3,3 +3,4 @@ Order Pizza.
 Pay for Pizza.
 Hang up the phone.
 Recieve reciept for pizza.
+Recieved text for wait time on pizza.
