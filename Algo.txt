@@ -6,3 +6,4 @@ Recieve reciept for pizza.
 Recieved text for wait time on pizza.
 Try to decide what to do while waiting on pizza.
 Sit down on couch.
+Turn on TV.
